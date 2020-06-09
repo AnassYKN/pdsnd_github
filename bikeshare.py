@@ -5,6 +5,7 @@ import datetime as dt
 import click
 
 # Created by Anass YAKINE
+# Course Programming for Data Science with Python Nanodegree Program
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
